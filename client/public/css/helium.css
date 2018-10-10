@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@font-face
+{
+  font-family: RifficFree-Bold;
+  src: url('../fonts/RifficFree-Bold.ttf');
+}
+
+/* Colores */
+.prm-bkgclr-beige
+{
+  background-color: #FFE674;
+}
+
+.prm-txtclr-beige
+{
+  color: #FFE674;
+}
+
+.snd-bkgclr-limon
+{
+  background-color: #E6FE0E;
+}
+
+.snd-txtclr-limon
+{
+  color: #E6FE0E;
+}
+
+.trd-bkgclr-brown
+{
+  background-color: #B8A100;
+}
+
+.trd-txtclr-brown
+{
+  color: #B8A100;
+}
+
+.frd-bkgclr-dark
+{
+  background-color: #2F2F1E;
+}
+
+.frd-txtclr-dark
+{
+  color: #2F2F1E;
+}
+
+.fth-bkgclr-greendark
+{
+  background-color: #5DC0BD;
+}
+
+.fth-txtclr-greendark
+{
+  color: #5DC0BD;
+}
+
+body
+{
+  font-family: 'Raleway', Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.title
+{
+  font-family: 'RifficFree-Bold', Courier, serif;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 10px;
+  height: 70px;
+}
+
+.prc-body
+{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    height: 100%;
+}
+
+footer
+{
+    margin-bottom: 0px;
+    height: 115px;
+    width: 100%;
+    position: absolute;
+}
